@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Baji Shaik\\Desktop\\Shellscript\\Expence-Shell\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Baji Shaik\\Desktop\\Shellscript\\Expence-Shell\\MySql.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MySql.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MySql.sh",
+              "DocumentMoniker": "C:\\Users\\Baji Shaik\\Desktop\\Shellscript\\Expence-Shell\\MySql.sh",
+              "RelativeDocumentMoniker": "MySql.sh",
+              "ToolTip": "C:\\Users\\Baji Shaik\\Desktop\\Shellscript\\Expence-Shell\\MySql.sh",
+              "RelativeToolTip": "MySql.sh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAACAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-04-22T02:05:25.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

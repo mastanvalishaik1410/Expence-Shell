@@ -38,9 +38,11 @@ dnf install nodejs -y &>>LOGFILE
 VALIDATE $? "Installing NodeJs"
 
 id expense -y &>>LOGFILE
+
 if[ $? -ne 0 ]
 then
 	useradd expense
 	VALIDATE $? "User Added"
 else
 echo "User added ..$Y Skipping $N"
+fi

@@ -44,5 +44,5 @@ then
 	useradd expense
 	VALIDATE $? "User Added"
 else
-echo "User added ..$Y Skipping $N"
+echo -e "User added ..$Y Skipping $N"
 fi
